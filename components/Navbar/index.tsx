@@ -39,9 +39,6 @@ export default function Navbar() {
         setUserinfo({});
     }
 
-
-    
-
     const loggedInNavBar = () => {
         return (
             <div>
